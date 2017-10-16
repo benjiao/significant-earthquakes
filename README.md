@@ -8,7 +8,7 @@ Here's a preview I made using the dataset.
 
 ![Thumbnail](earthquakes.png "Significant Earthquakes")
 
-My goal here was to demonstrate some of the things you can do with Jupyter Notebook, Pandas, and BeautifulSoup by scraping data from a web page and save it into a more useable CSV format.
+My goal here was to demonstrate some of the things you can do with Jupyter Notebook, Pandas, and BeautifulSoup by scraping data from a web page and saving it into a more useable CSV format.
 
 View the [Notebook](https://github.com/benjiao/significant-earthquakes/blob/master/Significant%20Earthquakes.ipynb) for a demo on how I did the scrape/formatting.
 
